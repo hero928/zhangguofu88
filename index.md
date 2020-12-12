@@ -72,28 +72,92 @@
 <div class="container-fluid">
 	<div class="row-fluid">
 		<div class="span12">
-			<div class="accordion" id="accordion-743450">
-				<div class="accordion-group">
-					<div class="accordion-heading">
-						<a class="accordion-toggle" data-parent="#accordion-743450" data-toggle="collapse" href="#accordion-element-663701">选项卡 #1</a>
-					</div>
-					<div class="accordion-body in collapse" id="accordion-element-663701">
-						<p>
-							读书时的我
-						</p>
-						<div class="accordion-inner">
-							<a class="accordion-toggle" data-parent="#accordion-743450" data-toggle="collapse" href="#accordion-element-577147">选项卡 #2</a>
-						</div>
-					</div>
-				</div>
-				<div class="accordion-group">
-					<div class="accordion-body collapse" id="accordion-element-577147">
-						<div class="accordion-inner">
-							功能块...
-						</div>
-					</div>
-				</div>
-			</div>
-			<p>
-				HAPPY时的我
-			</p>
+			<table class="table">
+				<thead>
+					<tr>
+						<th>
+							求学之旅
+						</th>
+						<th>
+							学校
+						</th>
+						<th>
+							时间
+						</th>
+						<th>
+							成果
+						</th>
+					</tr>
+				</thead>
+				<tbody>
+					<tr>
+						<td>
+							1
+						</td>
+						<td>
+							满城小学
+						</td>
+						<td>
+							2008—2014
+						</td>
+						<td>
+							迷迷糊糊的毕了业
+						</td>
+					</tr>
+					<tr class="success">
+						<td>
+							2
+						</td>
+						<td>
+							<span>满城镇中学</span>
+						</td>
+						<td>
+							2014—2017
+						</td>
+						<td>
+							算是对求学有了点心得
+						</td>
+					</tr>
+					<tr class="error">
+						<td>
+							3
+						</td>
+						<td>
+							满城中学
+						</td>
+						<td>
+							2017—2020
+						</td>
+						<td>
+							开始摆正态度追求学业
+						</td>
+					</tr>
+					<tr class="warning">
+						<td>
+							4
+						</td>
+						<td>
+							南京理工大学
+						</td>
+						<td>
+							2020——
+						</td>
+						<td>
+							正在寻找将来的路
+						</td>
+					</tr>
+					<tr class="info">
+						<td>
+						</td>
+						<td>
+						</td>
+						<td>
+						</td>
+						<td>
+						</td>
+					</tr>
+				</tbody>
+			</table>
+		</div>
+	</div>
+</div>
