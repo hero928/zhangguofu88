@@ -68,3 +68,32 @@
 		</div>
 	</div>
 </div>
+
+<div class="container-fluid">
+	<div class="row-fluid">
+		<div class="span12">
+			<div class="accordion" id="accordion-743450">
+				<div class="accordion-group">
+					<div class="accordion-heading">
+						<a class="accordion-toggle" data-parent="#accordion-743450" data-toggle="collapse" href="#accordion-element-663701">选项卡 #1</a>
+					</div>
+					<div class="accordion-body in collapse" id="accordion-element-663701">
+						<p>
+							读书时的我
+						</p>
+						<div class="accordion-inner">
+							<a class="accordion-toggle" data-parent="#accordion-743450" data-toggle="collapse" href="#accordion-element-577147">选项卡 #2</a>
+						</div>
+					</div>
+				</div>
+				<div class="accordion-group">
+					<div class="accordion-body collapse" id="accordion-element-577147">
+						<div class="accordion-inner">
+							功能块...
+						</div>
+					</div>
+				</div>
+			</div>
+			<p>
+				HAPPY时的我
+			</p>
